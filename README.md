@@ -39,9 +39,3 @@
 
 ⚡ **Curiosidade geek**:
 > "Segurança não é um produto, é um processo." – Bruce Schneier
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=gruvbox-dark&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO&layout=compact&langs_count=6&theme=gruvbox-dark&hide_border=true" width="300" />
-</p>
